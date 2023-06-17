@@ -1,0 +1,28 @@
+[32mINFO    [0m root:base.py:13 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="8a28a7b1-ae9c-420a-aa40-102c2e332970")>
+[32mINFO    [0m root:page_app_login.py:51 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+[32mINFO    [0m root:base.py:51 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+[32mINFO    [0m root:base.py:51 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+[32mINFO    [0m root:base.py:51 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+[32mINFO    [0m root:base.py:40 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+[32mINFO    [0m root:base.py:43 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+[32mINFO    [0m root:base.py:40 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+[32mINFO    [0m root:base.py:43 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+[32mINFO    [0m root:base.py:51 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+[32mINFO    [0m root:base.py:13 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="8a28a7b1-ae9c-420a-aa40-102c2e332970")>
+[32mINFO    [0m root:page_app_article.py:23 正在调用查看文章业务方法 所属频道：懂车帝 文章标题：车
+[32mINFO    [0m root:base.py:51 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+[32mINFO    [0m root:app_base.py:30 正在调用从右向左滑动方法
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+[32mINFO    [0m root:base.py:26 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+[32mINFO    [0m root:base.py:26 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+[32mINFO    [0m root:base.py:26 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+[32mINFO    [0m root:app_base.py:78 正在调用从下向上滑动方法
+[32mINFO    [0m root:base.py:26 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+[32mINFO    [0m root:base.py:26 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")

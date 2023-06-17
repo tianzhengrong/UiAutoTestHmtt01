@@ -1,0 +1,540 @@
+2023-06-16 16:49:10,222 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="50e64142-b174-4708-965a-973c9f7771bd")>
+2023-06-16 16:49:10,223 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 16:49:10,223 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 16:49:10,223 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 16:49:11,410 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 16:49:11,410 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 16:49:12,513 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 16:49:12,514 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 16:49:15,106 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 16:49:15,117 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 16:49:15,775 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 16:49:16,783 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 16:49:16,800 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 16:49:17,344 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 16:49:19,896 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 16:49:19,896 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 16:49:19,991 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="50e64142-b174-4708-965a-973c9f7771bd")>
+2023-06-16 16:49:19,992 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 16:49:19,992 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 16:49:22,510 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[class='android.widget.LinearLayout']")
+2023-06-16 16:52:06,713 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="fb7f5003-d98d-4543-9c98-4b095caae766")>
+2023-06-16 16:52:06,714 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 16:52:06,714 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 16:52:06,714 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 16:52:07,241 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 16:52:07,241 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 16:52:08,431 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 16:52:08,432 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 16:52:10,115 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 16:52:10,133 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 16:52:10,774 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 16:52:11,795 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 16:52:12,298 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 16:52:12,307 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 16:52:15,325 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 16:52:15,325 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 16:52:15,395 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="fb7f5003-d98d-4543-9c98-4b095caae766")>
+2023-06-16 16:52:15,396 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 16:52:15,396 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 16:52:17,747 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 16:52:21,238 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:57:38,435 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="27b22c51-c0a3-4e0c-9f6f-0c271417531a")>
+2023-06-16 16:57:38,435 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 16:57:38,435 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 16:57:38,435 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 16:57:39,606 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 16:57:39,606 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 16:57:40,678 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 16:57:40,678 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 16:57:42,436 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 16:57:42,492 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 16:57:43,211 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 16:57:44,223 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 16:57:44,240 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 16:57:44,732 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 16:57:47,752 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 16:57:47,752 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 16:57:47,779 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="27b22c51-c0a3-4e0c-9f6f-0c271417531a")>
+2023-06-16 16:57:47,780 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 16:57:47,780 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 16:57:50,443 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 16:57:53,631 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:01,318 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:08,936 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:16,569 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:24,209 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:31,810 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:39,523 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:47,373 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 16:58:54,600 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[contains(@text='科技')]")
+2023-06-16 17:01:59,594 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="7f8234f9-2ed1-4a97-bd90-c8b711a2b51d")>
+2023-06-16 17:01:59,594 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:01:59,595 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:01:59,595 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:02:00,754 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:02:00,754 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:02:02,139 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:02:02,139 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:02:04,699 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:02:04,753 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:06:17,978 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="442b159e-7583-48ca-ad7f-c51cdc8b61a9")>
+2023-06-16 17:06:17,979 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:06:17,979 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:06:17,979 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:06:18,903 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:06:18,904 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:06:20,313 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:06:20,314 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:06:22,293 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:06:22,310 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:06:23,002 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:06:24,047 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:06:24,112 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:06:24,550 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:06:27,571 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:06:27,571 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:06:27,669 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="442b159e-7583-48ca-ad7f-c51cdc8b61a9")>
+2023-06-16 17:06:27,670 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:06:27,670 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:06:30,139 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:06:31,634 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:06:41,887 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:06:52,985 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:07:04,104 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:07:15,116 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:07:26,147 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:07:37,269 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[content-desc='娱乐']")
+2023-06-16 17:13:43,169 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="92dc3a72-04d6-41fb-a6b2-77f192a68596")>
+2023-06-16 17:13:43,169 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:13:43,169 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:13:43,169 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:13:44,141 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:13:44,141 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:13:45,851 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:13:45,851 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:13:48,736 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:13:48,777 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:13:49,428 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:13:50,464 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:13:50,556 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:13:50,959 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:13:53,969 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:13:53,969 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:13:54,022 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="92dc3a72-04d6-41fb-a6b2-77f192a68596")>
+2023-06-16 17:13:54,022 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:13:54,022 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:13:56,703 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:13:58,139 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='娱乐']")
+2023-06-16 17:14:02,445 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='娱乐']")
+2023-06-16 17:14:07,811 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='娱乐']")
+2023-06-16 17:15:05,414 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="5466f2ba-1b2b-4c92-8594-7c72821f9644")>
+2023-06-16 17:15:05,415 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:15:05,415 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:15:05,415 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:15:06,602 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:15:06,602 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:15:07,999 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:15:07,999 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:15:10,180 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:15:10,274 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:15:10,883 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:15:11,885 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:15:11,909 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:15:12,388 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:15:15,408 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:15:15,408 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:15:15,471 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="5466f2ba-1b2b-4c92-8594-7c72821f9644")>
+2023-06-16 17:15:15,472 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:15:15,472 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:15:17,908 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:15:19,436 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='科技']")
+2023-06-16 17:15:23,857 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='科技']")
+2023-06-16 17:15:29,211 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@content-desc='科技']")
+2023-06-16 17:26:10,393 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="59a43f96-4687-4c14-a09d-2fc116a89ce1")>
+2023-06-16 17:26:10,394 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:26:10,394 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:26:10,394 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:26:11,440 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:26:11,440 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:26:13,219 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:26:13,219 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:26:15,640 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:26:15,850 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:26:16,428 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:26:17,439 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:26:17,954 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:26:17,966 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:26:21,000 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:26:21,000 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:26:21,039 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="59a43f96-4687-4c14-a09d-2fc116a89ce1")>
+2023-06-16 17:26:21,039 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:26:21,039 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:26:23,655 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:26:26,561 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']//*[@content-desc='科技']")
+2023-06-16 17:26:31,368 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']//*[@content-desc='科技']")
+2023-06-16 17:26:36,718 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']//*[@content-desc='科技']")
+2023-06-16 17:27:40,779 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="3720ff97-e5ec-4f29-a02e-d803925df743")>
+2023-06-16 17:27:40,779 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:27:40,779 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:27:40,779 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:27:41,876 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:27:41,876 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:27:43,062 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:27:43,062 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:27:44,970 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:27:45,212 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:27:45,753 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:27:46,762 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:27:46,790 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:27:47,311 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:27:50,335 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:27:50,335 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:27:50,399 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="3720ff97-e5ec-4f29-a02e-d803925df743")>
+2023-06-16 17:27:50,401 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:27:50,401 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:27:52,640 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:27:54,611 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='科技']")
+2023-06-16 17:27:59,385 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='科技']")
+2023-06-16 17:28:04,602 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='科技']")
+2023-06-16 17:50:43,397 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="1ab869e6-3211-475e-ab59-61efd056c1cc")>
+2023-06-16 17:50:43,397 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:50:43,397 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:50:43,397 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:50:44,417 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:50:44,417 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:50:45,665 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:50:45,665 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:50:47,715 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:50:48,483 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:50:48,493 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:50:49,585 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:50:49,621 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:50:50,087 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:50:53,116 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:50:53,116 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:50:53,174 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="1ab869e6-3211-475e-ab59-61efd056c1cc")>
+2023-06-16 17:50:53,175 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:50:53,175 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:50:55,856 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:50:58,757 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:51:05,285 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:51:12,650 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:51:19,932 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:51:21,996 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 17:51:22,747 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:28,109 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:33,852 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:39,351 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:45,050 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:50,534 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:51:56,010 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:52:01,640 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:52:07,689 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:52:13,100 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:52:18,565 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:52:24,118 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '比亚迪')]")
+2023-06-16 17:58:58,955 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="02ab85c6-df13-4682-b4f6-d0952c2cd9c3")>
+2023-06-16 17:58:58,955 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 17:58:58,955 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 17:58:58,955 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 17:58:59,904 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 17:58:59,904 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 17:59:01,514 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 17:59:01,514 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 17:59:04,053 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 17:59:04,140 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 17:59:04,740 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 17:59:05,751 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 17:59:06,282 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 17:59:06,291 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 17:59:09,317 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 17:59:09,317 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 17:59:09,372 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="02ab85c6-df13-4682-b4f6-d0952c2cd9c3")>
+2023-06-16 17:59:09,373 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 17:59:09,373 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 17:59:11,553 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 17:59:15,037 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:59:21,801 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:59:29,468 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:59:36,771 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 17:59:38,857 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 17:59:39,638 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 17:59:45,211 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 17:59:50,838 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 17:59:56,855 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:02,368 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:07,863 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:13,277 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:19,643 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:25,206 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:30,768 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:36,344 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:41,987 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:00:47,474 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '汽车')]")
+2023-06-16 18:01:15,413 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e59f851e-0a4b-4fc5-bf90-20a10ff1437b")>
+2023-06-16 18:01:15,413 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:01:15,413 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:01:15,413 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:01:16,502 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:01:16,502 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:01:17,828 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:01:17,828 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:01:19,810 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:01:20,547 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:01:20,611 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:01:21,620 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:01:22,126 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:01:22,133 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:01:25,151 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:01:25,151 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:01:25,209 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e59f851e-0a4b-4fc5-bf90-20a10ff1437b")>
+2023-06-16 18:01:25,210 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 18:01:25,210 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 18:01:27,639 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 18:01:33,426 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:01:40,699 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:01:47,927 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:01:50,002 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 18:01:50,789 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")
+2023-06-16 18:10:40,519 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="d7836bf2-37e3-401f-aa6e-787e431181ec")>
+2023-06-16 18:10:40,520 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:10:40,520 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:10:40,520 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:10:41,776 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:10:41,776 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:10:43,117 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:10:43,118 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:10:46,041 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:10:46,756 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:10:46,790 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:10:47,810 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:10:47,834 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:10:48,309 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:10:51,321 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:10:51,321 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:10:51,354 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="d7836bf2-37e3-401f-aa6e-787e431181ec")>
+2023-06-16 18:10:51,355 INFO [page_app_article.py(page_app_article:23)] - 正在调用查看文章业务方法 所属频道：懂车帝 文章标题：车
+2023-06-16 18:10:51,356 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 18:10:51,356 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 18:10:53,835 INFO [app_base.py(app_base_right_wipe_left:30)] - 正在调用从右向左滑动方法
+2023-06-16 18:10:53,835 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 18:10:59,167 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:11:06,540 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:11:13,895 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:11:15,971 INFO [app_base.py(app_base_down_wipe_up:78)] - 正在调用从下向上滑动方法
+2023-06-16 18:11:15,971 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 18:11:16,764 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")
+2023-06-16 18:18:49,152 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ee66ba3878f8bd4428e5b3c30eddbd23")>
+2023-06-16 18:18:49,152 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-16 18:18:49,153 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:18:49,687 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ee66ba3878f8bd4428e5b3c30eddbd23")>
+2023-06-16 18:18:56,919 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="f7b9cc4d68c623b5eeb622ae4068cecf")>
+2023-06-16 18:18:56,919 INFO [page_mp_login.py(page_mp_login_sucsess:46)] - 正在调用tpshop后台成功登录业务方法，用户名：admin 密码：123456
+2023-06-16 18:18:56,919 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:19:16,934 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="3688dac6-158c-4c3b-b569-d150d0b4ea45")>
+2023-06-16 18:19:16,935 INFO [page_app_login.py(page_app_login:41)] - 正在调用今日头条app登录业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:19:16,935 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:19:16,935 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:19:17,557 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:19:17,557 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:19:18,553 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:19:18,553 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:19:21,479 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:19:21,607 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:19:22,360 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:19:23,393 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:19:23,925 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:19:23,937 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:19:26,977 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:19:26,977 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:19:27,016 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bzp')
+2023-06-16 18:19:29,193 INFO [app_base.py(app_base_is_exist:16)] - 在app页面中找到指定元素！
+2023-06-16 18:19:42,609 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="67abba4d-134e-419d-80aa-4e4c93cdd804")>
+2023-06-16 18:19:42,609 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:19:42,609 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:19:42,609 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:19:43,619 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:19:43,619 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:19:44,870 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:19:44,870 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:19:47,089 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:19:47,112 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:19:47,861 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:19:48,870 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:19:49,384 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:19:49,392 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:19:52,409 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:19:52,409 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:19:52,443 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="67abba4d-134e-419d-80aa-4e4c93cdd804")>
+2023-06-16 18:19:52,443 INFO [page_app_article.py(page_app_article:23)] - 正在调用查看文章业务方法 所属频道：懂车帝 文章标题：车
+2023-06-16 18:19:52,444 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 18:19:52,444 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 18:19:54,821 INFO [app_base.py(app_base_right_wipe_left:30)] - 正在调用从右向左滑动方法
+2023-06-16 18:19:54,821 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 18:20:00,042 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:20:07,151 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:20:14,412 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:20:16,472 INFO [app_base.py(app_base_down_wipe_up:78)] - 正在调用从下向上滑动方法
+2023-06-16 18:20:16,472 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 18:20:17,273 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")
+2023-06-16 18:20:33,959 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="0dba9f1bc62f46b664765af8ebdd87d5")>
+2023-06-16 18:20:33,959 INFO [page_tp_login.py(page_tp_login:38)] - 正在调用tpshop前端登录业务方法，用户名：18729399707 密码：abc123
+2023-06-16 18:20:33,960 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:20:33,966 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-16 18:20:33,986 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-16 18:20:34,011 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-16 18:20:34,017 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-16 18:20:34,027 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-16 18:20:34,051 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-16 18:20:34,057 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-16 18:20:34,066 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-16 18:20:35,087 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-16 18:20:35,087 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-16 18:20:36,119 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-16 18:20:36,358 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '.red.userinfo')元素获取文本操作，获取的文本值：18729
+2023-06-16 18:20:36,358 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-16 18:20:39,822 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="72256e463f7866560b994ec4feea5561")>
+2023-06-16 18:20:39,822 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-16 18:20:39,822 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:20:39,829 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-16 18:20:39,848 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-16 18:20:39,879 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-16 18:20:39,889 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-16 18:20:39,904 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-16 18:20:39,930 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-16 18:20:39,938 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-16 18:20:39,953 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-16 18:20:40,981 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-16 18:20:40,981 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-16 18:20:42,324 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="72256e463f7866560b994ec4feea5561")>
+2023-06-16 18:20:43,326 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-16 18:20:43,326 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-16 18:20:43,933 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ico-system-3')元素执行点击操作！
+2023-06-16 18:20:43,933 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ico-system-3')
+2023-06-16 18:20:44,507 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-16 18:20:44,523 INFO [base.py(base_click:51)] - 正在对：('xpath', "//span[text()='新增文章']")元素执行点击操作！
+2023-06-16 18:20:44,523 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//span[text()='新增文章']")
+2023-06-16 18:20:45,192 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.input-txt')
+2023-06-16 18:20:45,203 INFO [base.py(base_input:40)] - 正在对：('css selector', '.input-txt')元素执行清空操作！
+2023-06-16 18:20:45,216 INFO [base.py(base_input:43)] - 正在对：('css selector', '.input-txt')元素执行输入：test002-bj002操作！
+2023-06-16 18:20:46,755 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.form-control')
+2023-06-16 18:20:47,299 INFO [base.py(base_click:51)] - 正在对：('css selector', '.cb-enable')元素执行点击操作！
+2023-06-16 18:20:47,299 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.cb-enable')
+2023-06-16 18:20:47,840 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#ueditor_0')
+2023-06-16 18:20:47,853 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "body[class='view']")
+2023-06-16 18:20:47,859 INFO [base.py(base_input:40)] - 正在对：('css selector', "body[class='view']")元素执行清空操作！
+2023-06-16 18:20:47,871 INFO [base.py(base_input:43)] - 正在对：('css selector', "body[class='view']")元素执行输入：今晚吃火锅!操作！
+2023-06-16 18:20:48,906 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-16 18:20:48,925 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ncap-btn-big')元素执行点击操作！
+2023-06-16 18:20:48,925 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ncap-btn-big')
+2023-06-16 18:20:48,974 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-16 18:20:50,509 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')元素获取文本操作，获取的文本值：test002-bj002
+2023-06-16 18:20:50,509 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-16 18:20:53,988 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="8b62b39cfca66a5a3931438313797dfc")>
+2023-06-16 18:20:57,396 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="7d1c21aa6aebba3a5eb0e41157b99035")>
+2023-06-16 18:20:57,396 INFO [page_tp_login.py(page_tp_login_success:46)] - 正在调用tpshop前端成功登录业务方法，用户名：18729399707 密码：abc123
+2023-06-16 18:20:57,396 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:20:57,405 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-16 18:20:57,423 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-16 18:20:57,447 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-16 18:20:57,455 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-16 18:20:57,466 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-16 18:20:57,491 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-16 18:20:57,496 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-16 18:20:57,507 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-16 18:20:58,527 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-16 18:20:58,527 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-16 18:20:59,560 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="7d1c21aa6aebba3a5eb0e41157b99035")>
+2023-06-16 18:20:59,560 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="7d1c21aa6aebba3a5eb0e41157b99035")>
+2023-06-16 18:21:00,561 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='首页']")元素执行点击操作！
+2023-06-16 18:21:00,561 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='首页']")
+2023-06-16 18:21:01,848 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-input')元素执行点击操作！
+2023-06-16 18:21:01,848 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-16 18:21:02,883 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-16 18:21:02,889 INFO [base.py(base_input:40)] - 正在对：('css selector', '.ecsc-search-input')元素执行清空操作！
+2023-06-16 18:21:02,906 INFO [base.py(base_input:43)] - 正在对：('css selector', '.ecsc-search-input')元素执行输入：手机操作！
+2023-06-16 18:21:03,921 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-button')元素执行点击操作！
+2023-06-16 18:21:03,921 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-button')
+2023-06-16 18:21:05,174 INFO [base.py(base_click:51)] - 正在对：('css selector', '.p-btn')元素执行点击操作！
+2023-06-16 18:21:05,174 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.p-btn')
+2023-06-16 18:21:06,207 INFO [base.py(base_click:51)] - 正在对：('css selector', '#join_cart_now')元素执行点击操作！
+2023-06-16 18:21:06,207 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#join_cart_now')
+2023-06-16 18:21:08,629 INFO [base.py(base_click:51)] - 正在对：('css selector', '.Sub-orders')元素执行点击操作！
+2023-06-16 18:21:08,629 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.Sub-orders')
+2023-06-16 18:21:09,662 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='订单详情']")元素执行点击操作！
+2023-06-16 18:21:09,662 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='订单详情']")
+2023-06-16 18:21:12,308 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-16 18:21:12,326 INFO [base.py(base_get_text:60)] - 正在对：('css selector', 'span>b')元素获取文本操作，获取的文本值：订单：202306161821087171
+2023-06-16 18:21:12,326 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-16 18:21:16,227 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="58d8215f2be27abb544dd4754df83120")>
+2023-06-16 18:21:16,227 INFO [page_mp_login.py(page_mp_login_sucsess:46)] - 正在调用tpshop后台成功登录业务方法，用户名：admin 密码：123456
+2023-06-16 18:21:16,227 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-16 18:21:16,235 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-16 18:21:16,255 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-16 18:21:16,283 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-16 18:21:16,289 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-16 18:21:16,300 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-16 18:21:16,327 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-16 18:21:16,336 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-16 18:21:16,347 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-16 18:21:17,373 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-16 18:21:17,373 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-16 18:21:18,693 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="58d8215f2be27abb544dd4754df83120")>
+2023-06-16 18:21:19,693 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-16 18:21:19,693 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-16 18:21:20,300 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[contains(text(),'清除缓存')]")元素执行点击操作！
+2023-06-16 18:21:20,300 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[contains(text(),'清除缓存')]")
+2023-06-16 18:21:20,941 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-16 18:21:20,958 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ice_w')元素执行点击操作！
+2023-06-16 18:21:20,958 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ice_w')
+2023-06-16 18:21:21,104 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-16 18:21:21,625 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#\\31 527 > td:nth-child(2) > div')元素获取文本操作，获取的文本值：202306142219588604
+2023-06-16 18:21:21,625 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-16 18:21:21,633 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='202306142219588604']")
+2023-06-16 18:21:36,645 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="9cca5d51-e306-4711-a490-0a6b29957167")>
+2023-06-16 18:21:36,646 INFO [page_app_login.py(page_app_login:41)] - 正在调用今日头条app登录业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:21:36,646 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:21:36,646 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:21:37,704 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:21:37,704 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:21:39,273 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:21:39,273 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:21:41,940 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:21:41,992 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:21:42,603 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:21:43,611 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:21:43,627 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:21:44,114 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:21:47,121 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:21:47,121 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:21:47,165 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bzp')
+2023-06-16 18:21:49,939 INFO [app_base.py(app_base_is_exist:16)] - 在app页面中找到指定元素！
+2023-06-16 18:22:03,611 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="7e9f7179-b42d-45e2-b426-76290aa176f5")>
+2023-06-16 18:22:03,611 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-16 18:22:03,611 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-16 18:22:03,611 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-16 18:22:04,583 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-16 18:22:04,583 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-16 18:22:06,103 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-16 18:22:06,103 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-16 18:22:08,353 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-16 18:22:08,458 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-16 18:22:09,033 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-16 18:22:10,060 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-16 18:22:10,562 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-16 18:22:10,575 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-16 18:22:13,583 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-16 18:22:13,583 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-16 18:22:13,616 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="7e9f7179-b42d-45e2-b426-76290aa176f5")>
+2023-06-16 18:22:13,617 INFO [page_app_article.py(page_app_article:23)] - 正在调用查看文章业务方法 所属频道：懂车帝 文章标题：车
+2023-06-16 18:22:13,617 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-16 18:22:13,617 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-16 18:22:16,242 INFO [app_base.py(app_base_right_wipe_left:30)] - 正在调用从右向左滑动方法
+2023-06-16 18:22:16,242 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-16 18:22:21,228 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:22:28,580 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:22:35,890 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-16 18:22:37,964 INFO [app_base.py(app_base_down_wipe_up:78)] - 正在调用从下向上滑动方法
+2023-06-16 18:22:37,965 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-16 18:22:38,761 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")

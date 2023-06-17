@@ -1,0 +1,16 @@
+[32mINFO    [0m root:base.py:13 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="1e733a237dc3bcd034f39b4dc10fcaa5")>
+[32mINFO    [0m root:page_tp_login.py:38 正在调用tpshop前端登录业务方法，用户名：18729399707 密码：abc123
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[name='username']")
+[32mINFO    [0m root:base.py:40 正在对：('css selector', "[name='username']")元素执行清空操作！
+[32mINFO    [0m root:base.py:43 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[name='password']")
+[32mINFO    [0m root:base.py:40 正在对：('css selector', "[name='password']")元素执行清空操作！
+[32mINFO    [0m root:base.py:43 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[name='verify_code']")
+[32mINFO    [0m root:base.py:40 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+[32mINFO    [0m root:base.py:43 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+[32mINFO    [0m root:base.py:51 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.J-login-submit')
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.red.userinfo')
+[32mINFO    [0m root:base.py:60 正在对：('css selector', '.red.userinfo')元素获取文本操作，获取的文本值：18729
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.red.userinfo')

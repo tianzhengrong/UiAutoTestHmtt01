@@ -1,0 +1,325 @@
+2023-06-17 14:09:10,749 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="919fdc963535f74b53e5be177f58a2e4")>
+2023-06-17 14:09:10,749 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:09:10,749 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:09:35,715 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="8687319483852d5f7a2c922d618426d3")>
+2023-06-17 14:09:35,716 INFO [page_tp_login.py(page_tp_login:38)] - 正在调用tpshop前端登录业务方法，用户名：18729399707 密码：abc123
+2023-06-17 14:09:35,717 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:09:35,723 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:09:35,744 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-17 14:09:35,767 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:09:35,773 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:09:35,783 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-17 14:09:35,807 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-17 14:09:35,812 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-17 14:09:35,822 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-17 14:09:36,842 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-17 14:09:36,842 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-17 14:09:37,875 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-17 14:09:38,089 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '.red.userinfo')元素获取文本操作，获取的文本值：18729
+2023-06-17 14:09:38,089 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-17 14:09:41,526 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="24ab503dc43f1b692a8341e340f7a53b")>
+2023-06-17 14:09:41,527 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:09:41,527 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:09:41,540 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:09:41,568 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:09:41,598 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:09:41,607 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:09:41,619 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:09:41,644 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:09:41,650 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:09:41,663 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:09:42,686 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:09:42,686 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:09:45,057 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="24ab503dc43f1b692a8341e340f7a53b")>
+2023-06-17 14:09:46,058 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-17 14:09:46,058 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-17 14:09:46,665 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ico-system-3')元素执行点击操作！
+2023-06-17 14:09:46,665 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ico-system-3')
+2023-06-17 14:09:47,258 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:09:47,278 INFO [base.py(base_click:51)] - 正在对：('xpath', "//span[text()='新增文章']")元素执行点击操作！
+2023-06-17 14:09:47,278 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//span[text()='新增文章']")
+2023-06-17 14:09:47,939 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.input-txt')
+2023-06-17 14:09:47,949 INFO [base.py(base_input:40)] - 正在对：('css selector', '.input-txt')元素执行清空操作！
+2023-06-17 14:09:47,962 INFO [base.py(base_input:43)] - 正在对：('css selector', '.input-txt')元素执行输入：test002-bj002操作！
+2023-06-17 14:09:49,500 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.form-control')
+2023-06-17 14:09:50,040 INFO [base.py(base_click:51)] - 正在对：('css selector', '.cb-enable')元素执行点击操作！
+2023-06-17 14:09:50,040 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.cb-enable')
+2023-06-17 14:09:50,586 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#ueditor_0')
+2023-06-17 14:09:50,607 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "body[class='view']")
+2023-06-17 14:09:50,614 INFO [base.py(base_input:40)] - 正在对：('css selector', "body[class='view']")元素执行清空操作！
+2023-06-17 14:09:50,626 INFO [base.py(base_input:43)] - 正在对：('css selector', "body[class='view']")元素执行输入：今晚吃火锅!操作！
+2023-06-17 14:09:51,657 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:09:51,675 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ncap-btn-big')元素执行点击操作！
+2023-06-17 14:09:51,675 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ncap-btn-big')
+2023-06-17 14:09:51,724 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-17 14:09:53,263 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')元素获取文本操作，获取的文本值：test002-bj002
+2023-06-17 14:09:53,263 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-17 14:09:56,665 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="6bbdfb59ab1090e29c9dd47246c0267c")>
+2023-06-17 14:09:56,666 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:09:56,666 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:09:56,673 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:09:56,694 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:09:56,730 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:09:56,741 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:09:56,758 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:09:56,783 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:09:56,792 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:09:56,804 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:09:57,830 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:09:57,830 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:10:00,156 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//dt[text()='admin']")
+2023-06-17 14:10:00,172 INFO [base.py(base_get_text:60)] - 正在对：('xpath', "//dt[text()='admin']")元素获取文本操作，获取的文本值：admin
+2023-06-17 14:10:00,172 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//dt[text()='admin']")
+2023-06-17 14:10:03,478 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4e34ae083e651be0d3b9e874dc64f0be")>
+2023-06-17 14:10:03,479 INFO [page_tp_login.py(page_tp_login_success:46)] - 正在调用tpshop前端成功登录业务方法，用户名：18729399707 密码：abc123
+2023-06-17 14:10:03,479 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:10:03,485 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:10:03,504 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-17 14:10:03,529 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:10:03,533 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:10:03,543 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-17 14:10:03,568 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-17 14:10:03,574 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-17 14:10:03,584 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-17 14:10:04,608 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-17 14:10:04,608 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-17 14:10:05,642 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4e34ae083e651be0d3b9e874dc64f0be")>
+2023-06-17 14:10:05,642 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="4e34ae083e651be0d3b9e874dc64f0be")>
+2023-06-17 14:10:06,642 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='首页']")元素执行点击操作！
+2023-06-17 14:10:06,642 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='首页']")
+2023-06-17 14:10:07,924 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-input')元素执行点击操作！
+2023-06-17 14:10:07,924 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-17 14:10:08,952 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-17 14:10:08,958 INFO [base.py(base_input:40)] - 正在对：('css selector', '.ecsc-search-input')元素执行清空操作！
+2023-06-17 14:10:08,972 INFO [base.py(base_input:43)] - 正在对：('css selector', '.ecsc-search-input')元素执行输入：手机操作！
+2023-06-17 14:10:09,986 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-button')元素执行点击操作！
+2023-06-17 14:10:09,986 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-button')
+2023-06-17 14:10:11,246 INFO [base.py(base_click:51)] - 正在对：('css selector', '.p-btn')元素执行点击操作！
+2023-06-17 14:10:11,246 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.p-btn')
+2023-06-17 14:10:12,273 INFO [base.py(base_click:51)] - 正在对：('css selector', '#join_cart_now')元素执行点击操作！
+2023-06-17 14:10:12,273 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#join_cart_now')
+2023-06-17 14:10:13,640 INFO [base.py(base_click:51)] - 正在对：('css selector', '.Sub-orders')元素执行点击操作！
+2023-06-17 14:10:13,640 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.Sub-orders')
+2023-06-17 14:10:14,695 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='订单详情']")元素执行点击操作！
+2023-06-17 14:10:14,695 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='订单详情']")
+2023-06-17 14:10:17,329 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-17 14:10:17,341 INFO [base.py(base_get_text:60)] - 正在对：('css selector', 'span>b')元素获取文本操作，获取的文本值：订单：202306171410136395
+2023-06-17 14:10:17,341 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-17 14:10:20,746 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="502c2cac234c39bb107a6418b41728a9")>
+2023-06-17 14:10:20,746 INFO [page_mp_login.py(page_mp_login_sucsess:46)] - 正在调用tpshop后台成功登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:10:20,746 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:10:20,754 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:10:20,772 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:10:20,813 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:10:20,821 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:10:20,837 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:10:20,862 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:10:20,868 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:10:20,881 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:10:21,908 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:10:21,908 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:10:24,222 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="502c2cac234c39bb107a6418b41728a9")>
+2023-06-17 14:10:25,223 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-17 14:10:25,223 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-17 14:10:25,828 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[contains(text(),'清除缓存')]")元素执行点击操作！
+2023-06-17 14:10:25,828 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[contains(text(),'清除缓存')]")
+2023-06-17 14:10:26,476 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:10:26,496 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ice_w')元素执行点击操作！
+2023-06-17 14:10:26,496 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ice_w')
+2023-06-17 14:10:26,597 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-17 14:10:27,121 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#\\31 527 > td:nth-child(2) > div')元素获取文本操作，获取的文本值：202306142219588604
+2023-06-17 14:10:27,121 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-17 14:10:27,128 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='202306142219588604']")
+2023-06-17 14:13:53,579 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="6fb92d36-d663-49be-b1a2-2d32a54078a1")>
+2023-06-17 14:13:53,580 INFO [page_app_login.py(page_app_login:41)] - 正在调用今日头条app登录业务方法， 手机号：18729399707 密码：abc123
+2023-06-17 14:13:53,580 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-17 14:13:53,580 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-17 14:13:54,752 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-17 14:13:54,752 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-17 14:13:55,768 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-17 14:13:55,768 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-17 14:13:57,939 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-17 14:13:58,656 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-17 14:13:58,681 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-17 14:13:59,721 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-17 14:14:00,225 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-17 14:14:00,232 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-17 14:14:03,241 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-17 14:14:03,241 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-17 14:14:03,324 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bzp')
+2023-06-17 14:14:06,058 INFO [app_base.py(app_base_is_exist:16)] - 在app页面中找到指定元素！
+2023-06-17 14:14:43,149 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="1e733a237dc3bcd034f39b4dc10fcaa5")>
+2023-06-17 14:14:43,150 INFO [page_tp_login.py(page_tp_login:38)] - 正在调用tpshop前端登录业务方法，用户名：18729399707 密码：abc123
+2023-06-17 14:14:43,150 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:14:43,157 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:14:43,175 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-17 14:14:43,200 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:14:43,207 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:14:43,216 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-17 14:14:43,240 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-17 14:14:43,245 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-17 14:14:43,255 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-17 14:14:44,277 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-17 14:14:44,277 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-17 14:14:45,313 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-17 14:14:45,331 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '.red.userinfo')元素获取文本操作，获取的文本值：18729
+2023-06-17 14:14:45,331 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.red.userinfo')
+2023-06-17 14:14:48,780 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="12275ded7ac886ed673c110d175131cd")>
+2023-06-17 14:14:48,780 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:14:48,780 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:14:48,787 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:14:48,807 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:14:48,841 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:14:48,847 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:14:48,861 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:14:48,883 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:14:48,890 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:14:48,900 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:14:49,925 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:14:49,925 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:14:52,280 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="12275ded7ac886ed673c110d175131cd")>
+2023-06-17 14:14:53,281 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-17 14:14:53,281 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-17 14:14:53,883 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ico-system-3')元素执行点击操作！
+2023-06-17 14:14:53,883 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ico-system-3')
+2023-06-17 14:14:54,469 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:14:54,483 INFO [base.py(base_click:51)] - 正在对：('xpath', "//span[text()='新增文章']")元素执行点击操作！
+2023-06-17 14:14:54,483 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//span[text()='新增文章']")
+2023-06-17 14:14:55,129 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.input-txt')
+2023-06-17 14:14:55,138 INFO [base.py(base_input:40)] - 正在对：('css selector', '.input-txt')元素执行清空操作！
+2023-06-17 14:14:55,151 INFO [base.py(base_input:43)] - 正在对：('css selector', '.input-txt')元素执行输入：test002-bj002操作！
+2023-06-17 14:14:56,689 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.form-control')
+2023-06-17 14:14:57,232 INFO [base.py(base_click:51)] - 正在对：('css selector', '.cb-enable')元素执行点击操作！
+2023-06-17 14:14:57,232 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.cb-enable')
+2023-06-17 14:14:57,781 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#ueditor_0')
+2023-06-17 14:14:57,799 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "body[class='view']")
+2023-06-17 14:14:57,805 INFO [base.py(base_input:40)] - 正在对：('css selector', "body[class='view']")元素执行清空操作！
+2023-06-17 14:14:57,818 INFO [base.py(base_input:43)] - 正在对：('css selector', "body[class='view']")元素执行输入：今晚吃火锅!操作！
+2023-06-17 14:14:58,855 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:14:58,870 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ncap-btn-big')元素执行点击操作！
+2023-06-17 14:14:58,871 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ncap-btn-big')
+2023-06-17 14:14:58,911 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-17 14:15:00,444 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')元素获取文本操作，获取的文本值：test002-bj002
+2023-06-17 14:15:00,444 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#flexigrid > table > tbody > tr:nth-child(1) > td:nth-child(2) > div')
+2023-06-17 14:15:03,862 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="c2df57f45dc806bc7c3c4962ba84627d")>
+2023-06-17 14:15:03,863 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用tpshop后台登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:15:03,863 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:15:03,869 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:15:03,889 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:15:03,923 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:15:03,930 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:15:03,943 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:15:03,968 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:15:03,975 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:15:03,984 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:15:05,010 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:15:05,010 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:15:07,347 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//dt[text()='admin']")
+2023-06-17 14:15:07,367 INFO [base.py(base_get_text:60)] - 正在对：('xpath', "//dt[text()='admin']")元素获取文本操作，获取的文本值：admin
+2023-06-17 14:15:07,367 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//dt[text()='admin']")
+2023-06-17 14:15:10,795 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="83c98f337602a185674e685535498c0d")>
+2023-06-17 14:15:10,795 INFO [page_tp_login.py(page_tp_login_success:46)] - 正在调用tpshop前端成功登录业务方法，用户名：18729399707 密码：abc123
+2023-06-17 14:15:10,795 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:15:10,802 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:15:10,825 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：18729399707操作！
+2023-06-17 14:15:10,844 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:15:10,849 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:15:10,860 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：abc123操作！
+2023-06-17 14:15:10,888 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='verify_code']")
+2023-06-17 14:15:10,894 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='verify_code']")元素执行清空操作！
+2023-06-17 14:15:10,904 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='verify_code']")元素执行输入：8888操作！
+2023-06-17 14:15:11,924 INFO [base.py(base_click:51)] - 正在对：('css selector', '.J-login-submit')元素执行点击操作！
+2023-06-17 14:15:11,924 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.J-login-submit')
+2023-06-17 14:15:12,957 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="83c98f337602a185674e685535498c0d")>
+2023-06-17 14:15:12,957 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="83c98f337602a185674e685535498c0d")>
+2023-06-17 14:15:13,959 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='首页']")元素执行点击操作！
+2023-06-17 14:15:13,959 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='首页']")
+2023-06-17 14:15:15,248 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-input')元素执行点击操作！
+2023-06-17 14:15:15,248 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-17 14:15:16,275 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-input')
+2023-06-17 14:15:16,281 INFO [base.py(base_input:40)] - 正在对：('css selector', '.ecsc-search-input')元素执行清空操作！
+2023-06-17 14:15:16,295 INFO [base.py(base_input:43)] - 正在对：('css selector', '.ecsc-search-input')元素执行输入：手机操作！
+2023-06-17 14:15:17,308 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ecsc-search-button')元素执行点击操作！
+2023-06-17 14:15:17,308 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ecsc-search-button')
+2023-06-17 14:15:18,529 INFO [base.py(base_click:51)] - 正在对：('css selector', '.p-btn')元素执行点击操作！
+2023-06-17 14:15:18,529 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.p-btn')
+2023-06-17 14:15:19,560 INFO [base.py(base_click:51)] - 正在对：('css selector', '#join_cart_now')元素执行点击操作！
+2023-06-17 14:15:19,560 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#join_cart_now')
+2023-06-17 14:15:21,939 INFO [base.py(base_click:51)] - 正在对：('css selector', '.Sub-orders')元素执行点击操作！
+2023-06-17 14:15:21,939 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.Sub-orders')
+2023-06-17 14:15:22,975 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[text()='订单详情']")元素执行点击操作！
+2023-06-17 14:15:22,975 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='订单详情']")
+2023-06-17 14:15:25,611 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-17 14:15:25,630 INFO [base.py(base_get_text:60)] - 正在对：('css selector', 'span>b')元素获取文本操作，获取的文本值：订单：202306171415221379
+2023-06-17 14:15:25,630 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', 'span>b')
+2023-06-17 14:15:29,048 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="246bb15205aebee701cea2b4fca27d58")>
+2023-06-17 14:15:29,048 INFO [page_mp_login.py(page_mp_login_sucsess:46)] - 正在调用tpshop后台成功登录业务方法，用户名：admin 密码：123456
+2023-06-17 14:15:29,048 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='username']")
+2023-06-17 14:15:29,054 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='username']")元素执行清空操作！
+2023-06-17 14:15:29,072 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='username']")元素执行输入：admin操作！
+2023-06-17 14:15:29,105 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='password']")
+2023-06-17 14:15:29,111 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='password']")元素执行清空操作！
+2023-06-17 14:15:29,124 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='password']")元素执行输入：123456操作！
+2023-06-17 14:15:29,147 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='vertify']")
+2023-06-17 14:15:29,154 INFO [base.py(base_input:40)] - 正在对：('css selector', "[name='vertify']")元素执行清空操作！
+2023-06-17 14:15:29,165 INFO [base.py(base_input:43)] - 正在对：('css selector', "[name='vertify']")元素执行输入：8888操作！
+2023-06-17 14:15:30,189 INFO [base.py(base_click:51)] - 正在对：('css selector', "[name='submit']")元素执行点击操作！
+2023-06-17 14:15:30,189 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', "[name='submit']")
+2023-06-17 14:15:32,552 INFO [base.py(__init__:13)] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="246bb15205aebee701cea2b4fca27d58")>
+2023-06-17 14:15:33,554 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[text()='系统']")元素执行点击操作！
+2023-06-17 14:15:33,554 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[text()='系统']")
+2023-06-17 14:15:34,155 INFO [base.py(base_click:51)] - 正在对：('xpath', "//a[contains(text(),'清除缓存')]")元素执行点击操作！
+2023-06-17 14:15:34,155 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//a[contains(text(),'清除缓存')]")
+2023-06-17 14:15:34,785 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#workspace')
+2023-06-17 14:15:34,803 INFO [base.py(base_click:51)] - 正在对：('css selector', '.ice_w')元素执行点击操作！
+2023-06-17 14:15:34,803 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '.ice_w')
+2023-06-17 14:15:34,905 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-17 14:15:35,428 INFO [base.py(base_get_text:60)] - 正在对：('css selector', '#\\31 527 > td:nth-child(2) > div')元素获取文本操作，获取的文本值：202306142219588604
+2023-06-17 14:15:35,428 INFO [base.py(base_find:26)] - 正在查找元素：('css selector', '#\\31 527 > td:nth-child(2) > div')
+2023-06-17 14:15:35,436 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[text()='202306142219588604']")
+2023-06-17 14:15:50,247 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="0b6d5760-f13f-4bcf-bec5-adecfc336d10")>
+2023-06-17 14:15:50,247 INFO [page_app_login.py(page_app_login:41)] - 正在调用今日头条app登录业务方法， 手机号：18729399707 密码：abc123
+2023-06-17 14:15:50,247 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-17 14:15:50,248 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-17 14:15:51,428 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-17 14:15:51,428 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-17 14:15:52,682 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-17 14:15:52,682 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-17 14:15:54,394 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-17 14:15:55,132 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-17 14:15:55,140 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-17 14:15:56,148 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-17 14:15:56,162 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-17 14:15:56,649 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-17 14:15:59,657 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-17 14:15:59,657 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-17 14:15:59,889 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bzp')
+2023-06-17 14:16:02,955 INFO [app_base.py(app_base_is_exist:16)] - 在app页面中找到指定元素！
+2023-06-17 14:16:16,481 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="8a28a7b1-ae9c-420a-aa40-102c2e332970")>
+2023-06-17 14:16:16,481 INFO [page_app_login.py(page_app_login_success:51)] - 正在调用今日头条app登录成功业务方法， 手机号：18729399707 密码：abc123
+2023-06-17 14:16:16,481 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-17 14:16:16,481 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-17 14:16:17,126 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-17 14:16:17,126 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-17 14:16:18,910 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-17 14:16:18,910 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-17 14:16:21,125 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-17 14:16:21,798 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-17 14:16:21,808 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-17 14:16:22,816 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-17 14:16:22,867 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-17 14:16:23,319 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-17 14:16:26,340 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-17 14:16:26,340 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-17 14:16:26,385 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="8a28a7b1-ae9c-420a-aa40-102c2e332970")>
+2023-06-17 14:16:26,386 INFO [page_app_article.py(page_app_article:23)] - 正在调用查看文章业务方法 所属频道：懂车帝 文章标题：车
+2023-06-17 14:16:26,386 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/ctb')元素执行点击操作！
+2023-06-17 14:16:26,386 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ctb')
+2023-06-17 14:16:28,906 INFO [app_base.py(app_base_right_wipe_left:30)] - 正在调用从右向左滑动方法
+2023-06-17 14:16:28,906 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/ad9')
+2023-06-17 14:16:34,067 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-17 14:16:41,056 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-17 14:16:48,507 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//android.widget.HorizontalScrollView//*[@content-desc='懂车帝']")
+2023-06-17 14:16:50,582 INFO [app_base.py(app_base_down_wipe_up:78)] - 正在调用从下向上滑动方法
+2023-06-17 14:16:50,582 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/a8s')
+2023-06-17 14:16:51,351 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@bounds='[0,335][1080,1788]']//*[contains(@text, '车')]")

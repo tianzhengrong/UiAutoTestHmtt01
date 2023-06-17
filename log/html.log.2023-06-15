@@ -1,0 +1,18 @@
+2023-06-15 22:18:28,970 INFO [base.py(__init__:13)] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="3457d5e1-2f81-4361-be37-2b94d2691177")>
+2023-06-15 22:18:28,971 INFO [page_app_login.py(page_app_login:41)] - 正在调用今日头条app登录业务方法， 手机号：18729399707 密码：abc123
+2023-06-15 22:18:28,971 INFO [base.py(base_click:51)] - 正在对：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")元素执行点击操作！
+2023-06-15 22:18:28,971 INFO [base.py(base_find:26)] - 正在查找元素：('xpath', "//*[@index='3' and @class='android.widget.RelativeLayout']")
+2023-06-15 22:18:29,631 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/c04')元素执行点击操作！
+2023-06-15 22:18:29,632 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/c04')
+2023-06-15 22:18:30,979 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/bhu')元素执行点击操作！
+2023-06-15 22:18:30,979 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhu')
+2023-06-15 22:18:33,060 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhh')
+2023-06-15 22:18:33,172 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行清空操作！
+2023-06-15 22:18:33,767 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhh')元素执行输入：18729399707操作！
+2023-06-15 22:18:34,775 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bhp')
+2023-06-15 22:18:34,789 INFO [base.py(base_input:40)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行清空操作！
+2023-06-15 22:18:35,277 INFO [base.py(base_input:43)] - 正在对：('id', 'com.ss.android.article.news:id/bhp')元素执行输入：abc123操作！
+2023-06-15 22:18:38,284 INFO [base.py(base_click:51)] - 正在对：('id', 'com.ss.android.article.news:id/qa')元素执行点击操作！
+2023-06-15 22:18:38,284 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/qa')
+2023-06-15 22:18:38,462 INFO [base.py(base_find:26)] - 正在查找元素：('id', 'com.ss.android.article.news:id/bzp')
+2023-06-15 22:18:41,239 INFO [app_base.py(app_base_is_exist:12)] - 在app页面中找到指定元素！

@@ -1,0 +1,6 @@
+page_tp_login.py ：tpshop前端登陆页面
+page_mp_login.py：tpshop后台登陆页面
+page_mp_article.py：tpshop后台新增文章页面
+test01_tp_login.py：tpshop前端登陆测试
+test02_mp_article.py：tpshop后台新增文章测试
+test03_mp_login.py：tpshop后台登录测试

@@ -1,0 +1,5 @@
+mp_login001:
+  username: "admin"
+  password: "123456"
+  code: "8888"
+  expect: "admin"
